@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Lanyon</title>
+ <title>Think Like an Idiot</title>
  <link href="http://lanyon.getpoole.com/atom.xml" rel="self"/>
  <link href="http://lanyon.getpoole.com/"/>
- <updated>2015-06-13T17:26:48-04:00</updated>
+ <updated>2015-06-13T17:34:49-04:00</updated>
  <id>http://lanyon.getpoole.com</id>
  <author>
-   <name>Mark Otto</name>
-   <email>markdotto@gmail.com</email>
+   <name>Adrian Li</name>
+   <email>li.adrianmc@gmail.com</email>
  </author>
 
  
