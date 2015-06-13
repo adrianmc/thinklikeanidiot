@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://lanyon.getpoole.com/2014/01/02/introducing-lanyon/</loc>
+    <loc>http://thinklikeanidiot.com/introducing-lanyon</loc>
     <lastmod>2014-01-02T00:00:00-05:00</lastmod>
   </url>
   <url>
-    <loc>http://lanyon.getpoole.com/2014/01/01/example-content/</loc>
+    <loc>http://thinklikeanidiot.com/example-content</loc>
     <lastmod>2014-01-01T00:00:00-05:00</lastmod>
   </url>
   <url>
-    <loc>http://lanyon.getpoole.com/2013/12/31/whats-jekyll/</loc>
+    <loc>http://thinklikeanidiot.com/whats-jekyll</loc>
     <lastmod>2013-12-31T00:00:00-05:00</lastmod>
   </url>
   <url>
-    <loc>http://lanyon.getpoole.com/404.html</loc>
+    <loc>http://thinklikeanidiot.com/404.html</loc>
   </url>
   <url>
-    <loc>http://lanyon.getpoole.com/about/</loc>
+    <loc>http://thinklikeanidiot.com/about/</loc>
   </url>
   <url>
-    <loc>http://lanyon.getpoole.com/archive/</loc>
+    <loc>http://thinklikeanidiot.com/archive/</loc>
   </url>
   <url>
-    <loc>http://lanyon.getpoole.com/</loc>
+    <loc>http://thinklikeanidiot.com/</loc>
   </url>
 </urlset>
