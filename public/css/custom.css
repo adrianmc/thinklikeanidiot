@@ -21,6 +21,20 @@
   vertical-align: text-top;
 }
 
+.sidebar .highlight-item {
+  /*color: black;
+  background-color: rgba(255,255,255,.7);
+  */
+  text-decoration: underline;
+}
+
+.sidebar .highlight-item:hover {
+  color: white;
+  text-decoration: none;
+  background-color: rgba(255,255,255,.1);
+  border-color: transparent;
+}
+
 .subscribe-box input {
 
 }

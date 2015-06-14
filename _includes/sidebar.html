@@ -9,8 +9,8 @@
   </div>
 
   <nav class="sidebar-nav">
-    <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
-
+    <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/"><i class="fa fa-home fa-fw"></i>&nbsp;&nbsp;Home</a>
+    
     {% comment %}
       The code below dynamically generates a sidebar nav of pages with
       `layout: page` in the front-matter. See readme for usage.
@@ -20,11 +20,11 @@
     {% for node in pages_list %}
       {% if node.title != null %}
         {% if node.layout == "page" %}
-          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}"><i class="fa fa-{% if node.icon != null %}{{ node.icon }}{% else %}minus{% endif %} fa-fw"></i>&nbsp;&nbsp;{{ node.title }}</a>
         {% endif %}
       {% endif %}
     {% endfor %}
-    <a href="/atom.xml" class="sidebar-nav-item">Feed</a>
+    <a href="/atom.xml" class="sidebar-nav-item"><i class="fa fa-rss fa-fw"></i>&nbsp;&nbsp;Feed</a>
   </nav>
 
   <div class="sidebar-item">

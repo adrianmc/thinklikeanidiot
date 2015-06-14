@@ -16,12 +16,12 @@
     <loc>http://thinklikeanidiot.com/404.html</loc>
   </url>
   <url>
-    <loc>http://thinklikeanidiot.com/about/</loc>
-  </url>
-  <url>
     <loc>http://thinklikeanidiot.com/archive/</loc>
   </url>
   <url>
     <loc>http://thinklikeanidiot.com/</loc>
+  </url>
+  <url>
+    <loc>http://thinklikeanidiot.com/start/</loc>
   </url>
 </urlset>
