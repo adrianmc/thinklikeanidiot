@@ -1,0 +1,30 @@
+.highlight .lineno {
+  display: inline-block;
+  padding-right: .75rem;
+  padding-left: .25rem;
+  color: #999;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+
+.centered {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.header-img {
+  display: inline;
+  margin: 0;
+  height: 1.25rem;
+  vertical-align: text-top;
+}
+
+.subscribe-box input {
+
+}
+
+.subscribe-box button {
+  
+}

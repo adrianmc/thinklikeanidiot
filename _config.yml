@@ -1,12 +1,14 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
 # Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           "/:title"
 relative_permalinks: true
 
 # Setup
 title:               Think Like an Idiot
-tagline:             ""
+tagline:             "Programming Made Simple"
 description:         "An experiment in bettering computer and programming literacy."
 url:                 http://thinklikeanidiot.com
 baseurl:             ''

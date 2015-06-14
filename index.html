@@ -2,10 +2,12 @@
 layout: default
 title: Home
 ---
+<img class="centered" src="/public/images/idiot.png" alt="" height="200">
+<h3 class="centered">{{ site.tagline }}</h3>
 
-<p class="message">
-  Hey there! If you are new here, click here to read more about what this page is about.
-</p>
+<hr>
+{% include welcome_msg.html %}
+<hr>
 
 <div class="posts">
   {% for post in paginator.posts %}
