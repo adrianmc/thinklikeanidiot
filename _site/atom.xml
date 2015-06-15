@@ -4,7 +4,7 @@
  <title>Think Like an Idiot</title>
  <link href="http://thinklikeanidiot.com/atom.xml" rel="self"/>
  <link href="http://thinklikeanidiot.com/"/>
- <updated>2015-06-14T21:34:02-04:00</updated>
+ <updated>2015-06-14T23:05:38-04:00</updated>
  <id>http://thinklikeanidiot.com</id>
  <author>
    <name>Adrian Li</name>
@@ -22,7 +22,7 @@
  </entry>
  
  <entry>
-   <title>First! - Why I Started This Site</title>
+   <title>First! - Why I Started This Blog</title>
    <link href="http://thinklikeanidiot.com/first"/>
    <updated>2015-06-15T00:00:00-04:00</updated>
    <id>http://thinklikeanidiot.com/first</id>
@@ -32,7 +32,7 @@
   Finally, something I&#39;m actually first at!
 &lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur, quas dolores, sed saepe repellat incidunt et quis commodi eaque recusandae dolorum aut, perferendis esse cumque voluptas officia! Eius recusandae, dolore.&lt;/p&gt;
+&lt;p&gt;This all started when I was asked to teach at a web development bootcamp where people would pay a large sum of money and then sit in class for five days a week, for ten weeks and emerge confident in their new found coding abilities.&lt;/p&gt;
 </content>
  </entry>
  
