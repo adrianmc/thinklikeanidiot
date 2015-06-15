@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 <img class="centered" src="/public/images/idiot.png" alt="" height="200">
-<h3 class="centered">{{ site.tagline }}</h3>
+<h3 class="centered">Programming Made <em>Dead</em> Simple</h3>
 
 <hr>
 {% include welcome_msg.html %}
@@ -21,8 +21,7 @@ title: Home
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
     {{ post.content | strip_html | truncatewords: 50 }}
-    <br>
-    <a href="{{ post.url }}">[Full Post]</a>
+    <a class="full-post-link" href="{{ post.url }}"><i class="fa fa-rocket"></i></a>
   </div>
   {% endfor %}
 </div>

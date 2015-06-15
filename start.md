@@ -5,28 +5,24 @@ permalink: start/
 icon: flag
 ---
 
+![header image](/public/images/start-header.jpg)
+
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  See those mountains in the distance? That's where we're going. Don't worry though, we're going to take it <em>slooowwwww...</em>
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+## In Short
 
-There are currently two themes built on Poole:
+This site will teach you how to make websites and learn to code by thinking like an idiot (hint, it's me). This is programming for the everyman, the average joe, and the plain jane. If you're in a hurry, feel free to skip this page and go to the [first lesson](/lesson-zero-beginning/). Don't worry, you won't hurt my feelings ... much <i class="fa fa-meh-o"></i>.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+## In Long
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Yes, I know it's a lame hook, but it got you to read this far. The whole point of thinking like an idiot is so that we don't look at those mountains and feel like giving up. Let's be incredibly short-sighted and just focus on making a tiny step forward and celebrating every inch we make in the right direction.
 
-## Setup
+According to [Kathy Sierra](http://amzn.com/1491919019?tag=thinklikeanidiot-20), to get people engaged and learning quickly, we want to make sure that you are accomplishing *badass* things as soon and as frequently as possible. That's the model we're going with here.
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+For more information on why I started this site and the philosophy behind it, head over to my [first blog post](/first/).
 
 Thanks for reading!
+
+{% include subscribe_plug.html %}

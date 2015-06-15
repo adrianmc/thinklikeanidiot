@@ -1,3 +1,40 @@
+.centered {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.tldr {
+  text-align: center;
+}
+
+.header-img {
+  display: inline;
+  margin: 0;
+  height: 1.25rem;
+  vertical-align: text-top;
+}
+
+.full-post-link {
+  /*
+  display: block;
+  text-align: center;
+  margin: 5px;
+  */
+}
+
+/* Centering headers and post dates */
+
+h1, h2, h3, h4, h5, h6 {
+  text-align: center;
+}
+
+.post-date {
+  text-align: center;
+}
+
+/* line numbers */
+
 .highlight .lineno {
   display: inline-block;
   padding-right: .75rem;
@@ -8,18 +45,7 @@
   user-select: none;
 }
 
-.centered {
-  text-align: center;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.header-img {
-  display: inline;
-  margin: 0;
-  height: 1.25rem;
-  vertical-align: text-top;
-}
+/* highlighted sidebar item */
 
 .sidebar .highlight-item {
   /*color: black;
@@ -34,6 +60,8 @@
   background-color: rgba(255,255,255,.1);
   border-color: transparent;
 }
+
+/* TODO - Subscribe Button and Box */
 
 .subscribe-box input {
 

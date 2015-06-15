@@ -8,8 +8,8 @@ relative_permalinks: true
 
 # Setup
 title:               Think Like an Idiot
-tagline:             "Programming Made Simple"
-description:         "An experiment in bettering computer and programming literacy."
+tagline:             "Programming Made Dead Simple"
+description:         "Programming and making websites for the average citizen."
 url:                 http://thinklikeanidiot.com
 baseurl:             ''
 paginate:            5
