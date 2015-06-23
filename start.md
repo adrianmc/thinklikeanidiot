@@ -3,6 +3,7 @@ layout: page
 title: Start Here
 permalink: start/
 icon: flag
+imgurl: public/images/start-header.jpg
 ---
 
 ![header image](/public/images/start-header.jpg)
@@ -13,30 +14,41 @@ icon: flag
 
 ## In Short
 
-This site will teach you how to make websites and learn to code by thinking like an idiot (hint, it's me). This is programming for the everyman, the average joe, and the plain jane.
+This site will teach you how to code (in Javascript) by thinking like an idiot (hint, it's me). This is programming for the everyman, the average joe, and the plain jane. The only prerequisite is basic knowledge of HTML/CSS. If you're not familiar with that yet, [try this first](http://www.codecademy.com/en/tracks/web).
 
-If you're in a hurry, feel free to skip this page and go to the [first lesson](/lesson-zero-beginning/). Don't worry, you won't hurt my feelings ... much. <i class="fa fa-meh-o"></i>
+**I'm going to show you how I (an idiot) learned programming.**
+
+If you're in a hurry, feel free to skip this page and go to the [first lesson](/lesson-zero-look-cool/). Don't worry, you won't hurt my feelings ... much. <i class="fa fa-meh-o"></i>
 
 Links on this page:
 
-- [First Lesson](/lesson-zero-beginning/) (begin here)
-- [Why I Started This Blog](/first/)
+- [HTML/CSS Course by codecademy](http://www.codecademy.com/en/tracks/web)
+- [First Lesson](/lesson-zero-look-cool/) (begin here)
+- [Why I Started This Blog](/why/)
 - [Badass: Making Users Awesome by Kathy Sierra](http://amzn.com/1491919019?tag=thinklikeanidiot-20)
 - [Subscribe to this blog](#) <-- NTS: fix this link
 
 ## In Long
 
-Yes, I know it's a lame hook, but it got you to read this far. So here's a star for your trouble: <i class="fa fa-star"></i>
+Yes, I know the whole idiot thing is a lame hook, but it got you to read this far. So here's a star for your trouble: <i class="fa fa-star"></i>
 
-Happy? Great, now let's get back to explaining what we are going to do here. Let's begin by talking about my early struggle with programming.
+Happy?
+
+Great, now let's get back to explaining what we are going to do here. We'll begin by talking about my early struggle with programming.
 
 ### My (Short) Story
 
-When I first got started in programming, everything seemed so intimidating. I didn't learn programming in a class, it was just something that I felt like I should learn by myself. I just didn't want to look dumb in high school.
+When I first got started in programming, everything seemed so intimidating. I didn't learn programming in a class, it was just something that I felt like I should learn by myself.
 
-So I would go online and just look around for tutorials to get started. There would be many online communities filled with experienced programmers and at times it felt like they were speaking an entirely different language. Even when I made it clear that I was a beginner, they seemed to have trouble communicating in plain English with me.
+I just didn't want to look dumb in high school.
+
+So I would go online and just look around for tutorials to get started. There would be many online communities filled with experienced programmers and at times it felt like they were speaking an entirely different language. 
+
+Even when I made it clear that I was a beginner, **they seemed to have trouble communicating in plain English with me.**
 
 I began to think that maybe I really was dumb.
+
+> Just because you may be very good at something, doesn't automatically mean you are good at teaching it.
 
 Every programmer I asked for help would keep telling me to "do this" or "do that" and use words I didn't really understand. Years later, when I would go on to teach others, I found that a lot of experienced programmers were still teaching like this.
 
@@ -44,7 +56,7 @@ No bueno! <i class="fa fa-thumbs-down"></i>
 
 These programmers are good at what they do (much better than me, in fact), but a lot of times that doesn't translate to good teaching skills. Just because you may be very good at something, doesn't automatically mean you are good at teaching it. I'm sure many of us in college found out how true this is!
 
-I'm going to show you how I learned programming, and how my students have succeeded as well. The whole point of thinking like an idiot is so that we don't look at those mountains in the picture and feel like giving up. Let's be incredibly short-sighted and just focus on making tiny steps forward and celebrating every inch we make in the right direction.
+**I'm going to show you how I learned programming**, and how my students have succeeded as well. The whole point of thinking like an idiot is so that we don't look at those mountains in the picture and feel like giving up. Let's be incredibly short-sighted and just focus on making tiny steps forward and celebrating every inch we make in the right direction.
 
 > Big steps are hard, let's take small steps instead.
 >
@@ -60,8 +72,8 @@ We won't just be absorbing information, we will have *you* actually ***make*** t
 
 Are you ready?
 
-If so, head on over to the [first lesson](/lesson-zero-beginning/) to get started.
+If so, head on over to the [first lesson](/lesson-zero-look-cool/) to get started.
 
-For more information on why I started this site and the philosophy behind it, head over to my [first blog post](/first/).
+For more information on why I started this site and the philosophy behind it, head over to my [first blog post](/why/).
 
 {% include subscribe_plug.html %}

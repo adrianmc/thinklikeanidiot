@@ -4,6 +4,10 @@
   margin-right: auto;
 }
 
+.block {
+  display: block;
+}
+
 .tldr {
   text-align: center;
 }

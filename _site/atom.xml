@@ -4,7 +4,7 @@
  <title>Think Like an Idiot</title>
  <link href="http://thinklikeanidiot.com/atom.xml" rel="self"/>
  <link href="http://thinklikeanidiot.com/"/>
- <updated>2015-06-14T23:05:38-04:00</updated>
+ <updated>2015-06-17T23:10:59-04:00</updated>
  <id>http://thinklikeanidiot.com</id>
  <author>
    <name>Adrian Li</name>
@@ -13,26 +13,99 @@
 
  
  <entry>
-   <title>Lesson Zero - The Beginning</title>
-   <link href="http://thinklikeanidiot.com/lesson-zero-beginning"/>
+   <title>Lesson Zero - Look Cool</title>
+   <link href="http://thinklikeanidiot.com/lesson-zero-look-cool"/>
    <updated>2015-06-30T00:00:00-04:00</updated>
-   <id>http://thinklikeanidiot.com/lesson-zero-beginning</id>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia architecto adipisci ad obcaecati, at autem fugiat? Maiores ratione iure nam asperiores recusandae architecto earum soluta pariatur, quibusdam sapiente, distinctio repellat.&lt;/p&gt;
+   <id>http://thinklikeanidiot.com/lesson-zero-look-cool</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/public/images/lesson-zero-look-cool-header.jpg&quot; alt=&quot;guy jumping&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;First, we&amp;#39;re going to teach you how to look cool.&lt;/p&gt;
+
+&lt;p&gt;It&amp;#39;s very simple, we&amp;#39;re going to be using &lt;a href=&quot;http://www.google.com/chrome/&quot;&gt;Google Chrome&lt;/a&gt; since it has all the tools we need and is relatively consistent across all platforms. So if you don&amp;#39;t have it already downloaded and opened, let&amp;#39;s get that set up now, I&amp;#39;ll wait.&lt;/p&gt;
+
+&lt;p&gt;Got it?&lt;/p&gt;
+
+&lt;p&gt;Great, now let&amp;#39;s show you something cool.&lt;/p&gt;
+
+&lt;h3&gt;How to Look Cool&lt;/h3&gt;
+
+&lt;p&gt;You know that feeling you get when you show your friends something new that you learned? Especially if it&amp;#39;s something that they don&amp;#39;t know how to do. Even if it&amp;#39;s just the smallest thing, you feel pretty darned good about yourself.&lt;/p&gt;
+
+&lt;p&gt;Let&amp;#39;s get that feeling.&lt;/p&gt;
+
+&lt;p&gt;1) Right-click this icon:&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-lightbulb-o fa-3x centered block&quot;&gt;&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;2) And select &amp;quot;Inspect Element&amp;quot;.&lt;/p&gt;
+
+&lt;p&gt;3) You should be able to see something like this:&lt;/p&gt;
+
+&lt;p&gt;[insert image here]&lt;/p&gt;
+
+&lt;p&gt;Congratulations, you will now appear cool to 90% of people who use Google Chrome.&lt;/p&gt;
+
+&lt;p&gt;Too easy? No worries, if you already knew this you can skip on ahead.&lt;/p&gt;
+
+&lt;h2&gt;So what is it?&lt;/h2&gt;
+
+&lt;p&gt;That&amp;#39;s called the developer&amp;#39;s console. And it&amp;#39;ll allow you to examine the elements that make up a webpage. We&amp;#39;ll get into more detail later on, but if you look carefully you&amp;#39;ll see that there is a highlighted line in what just popped up.&lt;/p&gt;
+
+&lt;p&gt;It reads something like this:&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;i&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;fa fa-lightbulb-o fa-3x centered block&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/i&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;That&amp;#39;s actually an HTML element. And webpages are basically built from these elements.&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>First! - Why I Started This Blog</title>
-   <link href="http://thinklikeanidiot.com/first"/>
+   <title>Why I Started This Blog</title>
+   <link href="http://thinklikeanidiot.com/why"/>
    <updated>2015-06-15T00:00:00-04:00</updated>
-   <id>http://thinklikeanidiot.com/first</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/public/images/first-header.jpg&quot; alt=&quot;guy jumping&quot;&gt;&lt;/p&gt;
+   <id>http://thinklikeanidiot.com/why</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/public/images/why-header.jpg&quot; alt=&quot;guy thinking, not me&quot;&gt;&lt;/p&gt;
 
 &lt;p class=&quot;message&quot;&gt;
-  Finally, something I&#39;m actually first at!
+  Brace yourselves, this might be a little long. I&#39;ll be explaining how other people are too smart, and how I&#39;m too dumb and how that somehow qualifies me to write this blog about learning to program.
 &lt;/p&gt;
 
-&lt;p&gt;This all started when I was asked to teach at a web development bootcamp where people would pay a large sum of money and then sit in class for five days a week, for ten weeks and emerge confident in their new found coding abilities.&lt;/p&gt;
+&lt;p&gt;It all began when I was brought in to teach a coding bootcamp. This was a class full of beginners who would sit in a room from morning till night, 5 days a week, 10 weeks at a time.&lt;/p&gt;
+
+&lt;p&gt;It sounded pretty cool to help people learn how to make websites, so I figured I&amp;#39;d give it a shot.&lt;/p&gt;
+
+&lt;h3&gt;The Problem: They Smart, Me Dumb&lt;/h3&gt;
+
+&lt;p&gt;It turns out that the other instructors all worked as professional programmers who had spent the majority of their time on large production projects.&lt;/p&gt;
+
+&lt;p&gt;Because of this, there was a sense that we needed to teach them how to do things &amp;quot;the right way&amp;quot;.&lt;/p&gt;
+
+&lt;p&gt;Now, I am not a professional programmer so I don&amp;#39;t even know what that means sometimes. All I know how to do is to make shit happen. I also spent a lot of time tutoring kids and also teaching my friends how to program.&lt;/p&gt;
+
+&lt;p&gt;To put it in another way:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;They were the pros, I&amp;#39;m just an idiot.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;As a result, my personal philosophy differed from theirs significantly.&lt;/p&gt;
+
+&lt;h3&gt;My Philosophy&lt;/h3&gt;
+
+&lt;p&gt;While they were going through an hour-long lecture, I thought to myself, &amp;quot;but if we can get them to feel good &lt;em&gt;right now&lt;/em&gt;, why shouldn&amp;#39;t we? Life&amp;#39;s too short not to have fun &lt;em&gt;right now&lt;/em&gt;.&amp;quot;&lt;/p&gt;
+
+&lt;p&gt;My whole philosophy is to throw everything out the window and ask: What can we do &lt;strong&gt;right now&lt;/strong&gt; to get people&amp;#39;s eyes to light up as soon and as frequently as possible? And if it&amp;#39;s something that isn&amp;#39;t &amp;quot;best practices&amp;quot;, well then to hell with &amp;quot;best practices&amp;quot;.&lt;/p&gt;
+
+&lt;p&gt;To be frank, &amp;quot;best practices&amp;quot; can come later. That&amp;#39;ll be the easy part, the hard part is getting them engaged &lt;em&gt;right now&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;The most important thing is to make the learners feel like they&amp;#39;re doing awesome cool things right away.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Anything that detracts from that can be saved for later.&lt;/p&gt;
+
+&lt;h2&gt;So What Does This All Mean?&lt;/h2&gt;
+
+&lt;p&gt;That means we&amp;#39;re going to solve problems.&lt;/p&gt;
+
+&lt;p&gt;Every lesson will have a focus on something cool we want to accomplish. Sometimes it might be something very tiny, but it will nevertheless have a tangible effect. We want to give you the ability to show-off first, the details can come after.&lt;/p&gt;
+
+&lt;p&gt;How? Let&amp;#39;s &lt;a href=&quot;/lesson-zero-look-cool/&quot;&gt;find out&lt;/a&gt;.&lt;/p&gt;
 </content>
  </entry>
  
